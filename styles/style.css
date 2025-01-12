@@ -157,3 +157,15 @@ button{
   border-radius: 24px;
   justify-content: space-around;
 }
+/* donate styles */
+.donate{
+
+}
+.section-title{
+  font-size: 40px;
+  font-weight: bold;
+}
+.section-description{
+  font-size: 16px;
+  color: #0e0e0e70;
+}
